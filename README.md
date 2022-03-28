@@ -2,3 +2,5 @@
 https://github.com/Savvoyy/frontend-project-lvl1/.github/workflows/nodejs.yml/badge.svg
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Savvoyy/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Savvoyy/frontend-project-lvl1/actions)
+
+https://asciinema.org/connect/7bc825e0-9606-48a0-95cc-47a141bc6926
