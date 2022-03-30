@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import firstGame from '../src/firstGame.js';
+import firstGame from '../src/games/firstGame.js';
 
 firstGame();
