@@ -26,5 +26,5 @@ export const game = (rule, questionAnswer) => {
       return;
     }
   }
-  console.log(`Congratulations, ${userName}`);
+  console.log(`Congratulations, ${userName}!`);
 };
