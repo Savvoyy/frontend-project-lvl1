@@ -5,4 +5,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Savvoyy/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Savvoyy/frontend-project-lvl1/actions)
 
-https://asciinema.org/connect/7bc825e0-9606-48a0-95cc-47a141bc6926
+Asciinema brain-even
+https://asciinema.org/a/x6onCo7x8IwhQGdazpZAl29fJ
+
+Asciinema brain-calc
+https://asciinema.org/a/XrwAhLrJZyzmgDsXusocoDrzm
